@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning Android Development & Reest API<br><br>💬 Ask me about Software development and Open Source<br><br>📫 How to reach me omshukla2060@gmail.com<br><br>⚡ Fun fact -  Deep learning is really Deep haha :)<br><br> Don't tell anyone, keep it secret,"I am Deadpool 🕸"<br> 
+<br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning Android Development & Rest API<br><br>💬 Ask me about Software development and Open Source<br><br>📫 How to reach me omshukla2060@gmail.com<br><br>⚡ Fun fact -  Deep learning is really Deep haha :)<br><br> Don't tell anyone, keep it secret,"I am Deadpool 🕸"<br> 
 
 ## 🌐 Socials:
 <br>( https://www.linkedin.com/in/om-shukla01/)<br/>
