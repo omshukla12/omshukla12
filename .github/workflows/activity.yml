@@ -1,0 +1,21 @@
+name: Update README with activity
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Update README
+        run: |
+          echo "📊 **Last updated:** $(date +'%Y-%m-%d')" >> (link unavailable)
+          echo "🔥 **Recent activity:**" >> (link unavailable)
+          git log --pretty=format:"* %ad: %s" -1 >> (link unavailable)
+          git commit -m "Update README with activity" -a
+          git push origin main
+
