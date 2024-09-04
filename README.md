@@ -13,7 +13,7 @@
 <br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning Android Development & Rest API<br><br>💬 Ask me about Software development and Open Source<br><br>📫 How to reach me omshukla2060@gmail.com<br><br>⚡ Fun fact -  Deep learning is really Deep haha :)<br><br> Don't tell anyone, keep it secret,"I am Deadpool 🕸"<br> 
 
 ## 🌐 Socials:
-<br>( https://www.linkedin.com/in/om-shukla01/)<br/>
+Linkedin - <br>( https://www.linkedin.com/in/omshukla12/)<br/>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase).![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white).![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
