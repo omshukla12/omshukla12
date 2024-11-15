@@ -18,7 +18,7 @@
 
 ## ✨ Projects Highlights ✨
 
-<a href="crypto-tracker-beta-opal.vercel.app">CrypToTracker</a>
+<a href="https://github.com/omshukla12/CrypToTracker">CrypToTracker</a>
 
 ###
 
