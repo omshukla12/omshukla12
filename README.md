@@ -1,30 +1,61 @@
-<h1 align="center">Hey folks🙌, I'm Om Shukla💫</h1>
-<h3 align="center">Community Maintainer </h3>
-<h3 align="center">Code, Coffee & Community❤️</h3>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
+</div>
 
+# _<div align="center">Hey folks🙌, I'm Om Shukla💫</div>_
 
+<p align="left">
+ 👀 I'm a full-stack developer who's passionate about creating solutions.
+<br>
+🎓 Recent Software Engineer graduate at BBDNIIT.  
+<br>
+🧠 I'm a quick learner and love to learn new technologies.  
+<br>
+💪 Proficient in both front-end and back-end, bringing creative ideas to code. 
+<br>
+🏋️‍♂️ Besides programming, I love reading, cooking, and spending quality time with my family. 
+</p>
 
+## ✨ Projects Highlights ✨
 
+<a href="crypto-tracker-beta-opal.vercel.app">CrypToTracker</a>
 
+###
 
+<h2 align="left">💻 Tech Stacks 💻</h2>
 
-# 💫 About Me:
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning Android Development & Rest API<br><br>💬 Ask me about Software development and Open Source<br><br>📫 How to reach me omshukla2060@gmail.com<br><br>⚡ Fun fact -  Deep learning is really Deep haha :)<br><br> Don't tell anyone, keep it secret,"I am Deadpool 🕸"<br> 
+### Frontend
 
-## 🌐 Socials:
-Linkedin - <br>https://www.linkedin.com/in/omshukla12/<br/>
+<div align="start">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/0b4a893c-8825-4fff-a0ce-bc5cec258e31" alt="React" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/6803db10-bf25-433d-a91b-8e5ed5ac7699" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/9994d36c-b12a-4706-af11-7363804f1f93" alt="TypeScript" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase).![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white).![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  <summary font-weight="bold" ><h3>  📊 GitHub 📊 </h3></summary>
-  <br>
-  
-    
+### Backend
 
-
+<div align="start">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/5aa642d8-3632-4c7d-97ce-53169b5aa8de" alt="Node.js" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/14ec5163-e06d-4a53-b75c-a30fb565f86e" alt="AWS" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/a0e0cde1-9940-4d45-9845-adddaa61b691" alt="MongoDB" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/3fc83f6d-22db-41c1-883b-1c31622748f3" alt="Python" height="50" /></a>   
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/04717455-a35b-4600-83b5-440b58c6a2f5" alt="Docker" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/96e07d28-6d16-4ebf-8312-65a601d88660" alt="MySQL" height="50" /></a>  
  
-</details>
+</div>
 
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/omshukla) 
+<br/>
+
+
+## 🔥 Stats 🔥
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omshukla12&layout=compact&hide_border=true&theme=transparent" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omshukla12&theme=transparent&hide_border=true" align="center" />
+</div>  
